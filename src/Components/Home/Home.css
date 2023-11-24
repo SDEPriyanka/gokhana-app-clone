@@ -1,0 +1,32 @@
+
+.food-court-heading {
+    text-align: left;
+    padding:15px 5px;
+}
+.vending-machin-heading{
+    text-align: left;
+    padding:15px 5px;
+}
+
+.food-court-logo {
+    font-size: 60px;
+    text-align: center;
+    color: rgb(238, 142, 58);
+    background-color:rgb(239, 195, 158);
+    max-width: 25%;
+    border-radius: 5px;
+}
+.vending-gomachin-logo{
+    font-size: 60px;
+    text-align: center;
+    color: rgb(50, 150, 245);
+    background-color:rgb(161, 202, 240);
+    max-width: 25%;
+    border-radius: 5px;
+}
+.food-court{
+    background-color: rgb(247, 222, 210);
+}
+.vending-machin{
+    background-color: rgb(213, 224, 239);
+}

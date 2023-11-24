@@ -1,0 +1,28 @@
+.favorate P {
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 25%;
+    padding: 15px 42px;
+    margin: 3PX;
+    background-color: rgb(244, 92, 135);
+    color: white;
+    font-size: larger;
+}
+.favorate{
+  
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+.resturants-1-banner img{
+    height: auto;
+    width: 100%;
+}
+.resturants-desc p{
+    padding: none;
+}
+p{
+    padding: 0px !important;
+    margin: 0px !important;
+}

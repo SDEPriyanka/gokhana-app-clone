@@ -1,0 +1,66 @@
+.loginForm {
+  max-width: 70%;
+}
+.account {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.buton {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.buton .btn {
+  font-size: larger;
+  color: white;
+}
+
+.signin {
+  border: 2px solid rgb(255, 208, 0);
+  padding: 25px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.otp-field {
+  flex-direction: row;
+  column-gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.otp-field input {
+  height: 45px;
+  width: 45px;
+  border-radius: 6px;
+  outline: none;
+  font-size: 1.125rem;
+  text-align: center;
+  border: 1px solid rgb(255, 183, 0);
+}
+
+.resend {
+  font-size: 12px;
+}
+
+.corporatecode-body{
+ 
+  padding: 25px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}

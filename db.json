@@ -1,0 +1,50 @@
+{
+  "foodcourts": [
+    {
+      "id": 1,
+      "foodTitle": "Faasos- Wraps & Rolls",
+      "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIEhETmo9V1hlXIT949oorLAz40_xLuIH_EaVwD0Cqu6LU_ULkh9EB8ABURFJL1wGCTSU&usqp=CAU",
+      "location": "Old Airport Road",
+      "distance": "3 km",
+      "deliveryTime": "30 minutes Delivery",
+      "price": "120"
+    },
+    {
+      "id": 2,
+      "foodTitle": "Faasos- Wraps & Rolls",
+      "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5MqORsrLob3uXj4rDoEGZC-tfvcEArgSz1wlyYd4P_fKILFEd1dD4n7UdCZNz-CWACo&usqp=CAU",
+      "location": "Old Airport Road",
+      "distance": "3 km",
+      "deliveryTime": "30 minutes Delivery",
+      "price": "120"
+    },
+    {
+      "id": 3,
+      "foodTitle": "Faasos- Wraps & Rolls",
+      "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKV_XiPM-ADIwOjYD0OUkTIWwWHamdc6r4NA&usqp=CAU",
+      "location": "Old Airport Road",
+      "distance": "3 km",
+      "deliveryTime": "30 minutes Delivery",
+      "price": "120"
+    },
+    {
+      "id": 4,
+      "foodTitle": "Faasos- Wraps & Rolls",
+      "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAyJ-BXexWAuNvzz1xHyJ7TZH3I24L_6fAw&usqp=CAU",
+      "location": "Old Airport Road",
+      "distance": "3 km",
+      "deliveryTime": "30 minutes Delivery",
+      "price": "120"
+    },
+    {
+      "id": 4,
+      "foodTitle": "Faasos- Wraps & Rolls",
+      "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBlDyFAWPbSOk3h_jL9j6Qe57Pi5G_9F0nNw&usqp=CAU",
+      "location": "Old Airport Road",
+      "distance": "3 km",
+      "deliveryTime": "30 minutes Delivery",
+      "price": "120"
+    }
+   
+  ]
+}
